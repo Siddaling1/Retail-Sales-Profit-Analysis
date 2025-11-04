@@ -27,9 +27,13 @@ Strong positive correlation between sales and profit; high discounts hurt profit
 # 💡 Power BI Dashboard KPIs
 KPI	Description
 💰 Total Sales	Overall revenue generated
+
 📈 Total Profit	Net profit earned
+
 📊 Profit Margin %	(Profit / Sales) × 100
+
 📦 Total Quantity	Total units sold
+
 🧾 Total Orders	Number of transactions
 
 # Visuals included:
