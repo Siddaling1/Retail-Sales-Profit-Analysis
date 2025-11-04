@@ -47,3 +47,40 @@ Discount vs Profit Scatter Plot
 Top Sub-Categories by Sales
 
 Geographic Sales Distribution (Map)
+
+
+# Dataset
+
+< a href ="https://github.com/Siddaling1/Retail-Sales-Profit-Analysis/blob/main/SuperStore.csv" > Dataset</a>
+
+
+# codes
+
+< a href="https://github.com/Siddaling1/Retail-Sales-Profit-Analysis/blob/main/SUperstore.ipynb">Python</a>
+
+< a href="https://github.com/Siddaling1/Retail-Sales-Profit-Analysis/blob/main/Retail%20Sales%20%26%20Profit%20Analysis.sql">Mysql</a>
+
+< a href="https://github.com/Siddaling1/Retail-Sales-Profit-Analysis/blob/main/Retail%20Sales%20%26%20Profit%20Analysis.pbix">Power bi</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
