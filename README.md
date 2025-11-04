@@ -4,6 +4,13 @@
 
 To analyze sales, profit, and customer behavior from a retail dataset, uncover business insights, and visualize them through an interactive dashboard.
 
+
+# Power Bi Dashboard
+
+![Retail Sales Dashboard](https://github.com/Siddaling1/Retail-Sales-Profit-Analysis/raw/main/Screenshot%202025-11-04%20182635.png)
+
+
+
 # ⚙️ Tools Used
 
 🐍 Python → Data cleaning, transformation, and exploratory data analysis (EDA)
